@@ -1,5 +1,9 @@
 # LeetCode-192
 
+# Link
+
+[https://leetcode.com/problems/word-frequency/description/](https://leetcode.com/problems/word-frequency/description/)
+
 # Description
 
 Write a bash script to calculate the frequency of each word in a text file words.txt.
@@ -27,8 +31,10 @@ Your script should output the following, sorted by descending frequency:
 
 Don't worry about handling ties, it is guaranteed that each word's frequency count is unique.
 
+`uniq`: uniq命令用于报告或忽略文件中的重复行，一般与sort命令结合使用。
 
 # Hint
 
 Could you write it in one-line using *Unix pipes*?
+
   
